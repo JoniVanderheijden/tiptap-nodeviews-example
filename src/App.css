@@ -1,0 +1,20 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.editor {
+  width: 100%;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.editor .tiptap {
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.editor .node-reactComponent {
+  border: 1px solid #d6f678aa;
+  border-radius: 6px;
+}
